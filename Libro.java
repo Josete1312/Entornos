@@ -29,8 +29,8 @@ public class Libro {
 		this.autor = autor;	}
 
 	public void setAutor(){
-		this.autor.setNombre("Ana");
-		this.autor.setEdad(30);	}
+		this.autor.setNombre("Pepe");
+		this.autor.setEdad(20);	}
 
 	public boolean estaPrestado() {
 		return prestado;	}
