@@ -46,7 +46,7 @@ public class Libro {
 		else prestado=false;	}
 
 	public String toString() {
-		return "Libro [titulo=" + titulo + ", autor=" + autor.toString() + ", prestado="
+		return "Libros [titulo=" + titulo + ", autor=" + autor.toString() + ", prestado="
 		+ prestado + "]";
 	}
 }
